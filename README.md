@@ -1,2 +1,2 @@
-# rodrokomodo.github.com
+# rodrokomodo.github.io
 My web
