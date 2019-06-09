@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "RodrigoMartinWeb",
-    "currentPage": "index.html",
+    "currentPage": "aboutme.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -564,7 +564,7 @@
         }
       ]
     },
-    "page1.html": {
+    "galeria.html": {
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "galeria",
@@ -1386,7 +1386,7 @@
         }
       ]
     },
-    "page2.html": {
+    "aboutme.html": {
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "AboutMe",
