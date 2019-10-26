@@ -2490,6 +2490,29 @@ body {
     width: 100% !important;
   }
 }
+.cid-rFZRbqMjFX {
+  background: #ffffff;
+}
+.cid-rFZRbqMjFX .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rFZRbqMjFX .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rFZRbqMjFX figcaption {
+  position: relative;
+}
+.cid-rFZRbqMjFX figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rFZRbqMjFX .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rrvtF4TC7V .navbar {
   padding: .5rem 0;
   background: #333333;
