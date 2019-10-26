@@ -2513,6 +2513,29 @@ body {
     width: 100% !important;
   }
 }
+.cid-rFZZFTrV00 {
+  background: #ffffff;
+}
+.cid-rFZZFTrV00 .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rFZZFTrV00 .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rFZZFTrV00 figcaption {
+  position: relative;
+}
+.cid-rFZZFTrV00 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rFZZFTrV00 .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rrvtF4TC7V .navbar {
   padding: .5rem 0;
   background: #333333;
