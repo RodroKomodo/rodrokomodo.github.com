@@ -3447,3 +3447,15 @@ body {
     width: 100% !important;
   }
 }
+.cid-rM31tfbpPD {
+  background: #ffffff;
+}
+.cid-rM31tfbpPD .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-rM31tfbpPD .video-block {
+    width: 100% !important;
+  }
+}
